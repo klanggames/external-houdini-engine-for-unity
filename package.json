@@ -1,0 +1,15 @@
+{
+  "name": "com.sidefx.houdiniengine",
+  "version": "1.0.1",
+  "displayName": "Houdini Engine package",
+  "description": "Houdini Engine for Unity is a Unity plug-in that allows deep integration of Houdini technology into Unity through the use of Houdini Engine. This package is a minimal modification of the initial SideFX non-package Plugin, intended to stay as close to SideFX plugin as possible. For extending UnityEngine implementation inside of Klang projects, please use separate packages.",
+  "keywords": ["houdini","dcc","connect"],
+  "author": {
+    "name": "Valentin Besson",
+    "email": "valentin@klang-games.com"
+  },
+  "dependencies": {
+  },
+  "type": "library",
+  "hideInEditor": false
+}
